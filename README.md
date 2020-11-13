@@ -1,12 +1,5 @@
 [![Tadeo Garcia](https://github.com/tadeo-garcia/tadeo-garcia/blob/main/images/banner_tex.jpg)](https://tadeogarcia.me)
 
-<!-- - 📒 Check out my [portfolio](https://tadeogarcia.me)! -->
-- 🔭 I’m currently working on [Pretty Good Co-op](https://github.com/tadeo-garcia/pretty-good-coop)
-- 🌱 I’m currently learning how to develop an e-commerce store!
-- 👯 I’m looking to collaborate on any art related projects!
-- 💬  Ask me about vinyl, artists or what my favorite keyboards are!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak English, Spanish and French!
 
 ## GitHub Stats
 <a href="https://github.com/tadeo-garcia/tadeo-garcia">

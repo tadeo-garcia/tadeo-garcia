@@ -8,17 +8,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak English, Spanish and French!
 
-### Tadeo's Statistics
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Tadeos's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tadeo-garcia&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Tadeo's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadeo-garcia" />
-
-</details>
+## GitHub Stats
+<a href="https://github.com/tadeo-garcia/tadeo-garcia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadeo-garcia&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/tadeo-garcia/tadeo-garcia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tadeo-garcia&show_icons=true&line_height=27&count_private=true&hide_title=true&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=1d1f21" alt="Tadeo's GitHub Stats" />
+</a>

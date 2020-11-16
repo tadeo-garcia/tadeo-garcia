@@ -12,7 +12,8 @@
 ![](https://img.shields.io/badge/AWS-informational?style=for-the-badge&logo=Amazon-AWS&logoColor=white&color=221a1c)
 ![](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=221a1c)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=Docker&logoColor=white&color=221a1c)
-![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=221a1c)![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=221a1c)
+![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=221a1c)
+![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=221a1c)
 ![](https://img.shields.io/badge/Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=221a1c)
 ![](https://img.shields.io/badge/Illustrator-informational?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=221a1c)
 
